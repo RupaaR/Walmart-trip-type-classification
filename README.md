@@ -1,3 +1,4 @@
+
 # Walmart-trip-type-classification
 AIM:
   Categorizing the shopping trips based on the items purchased by the customers
@@ -7,7 +8,11 @@ DATA:
   https://www.kaggle.com/c/walmart-recruiting-trip-type-classification
 
 CODE:
-  Preprocess.R -> Cleaning the datset by treating missing values and outliers.
-  FE.R -> Extracting predictors that effectvely classify a trip.
-  Modelling.R ->Traing the model using LDA, Random Forests and XGBoost.
-  Test.R -> Predicting for the test dataset.
+  
+    Preprocess.R -> Cleaning the datset by treating missing values and outliers.
+  
+    FE.R -> Extracting predictors that effectvely classify a trip.
+  
+    Modelling.R ->Traing the model using LDA, Random Forests and XGBoost.
+  
+    Test.R -> Predicting for the test dataset.
