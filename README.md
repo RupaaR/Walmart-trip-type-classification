@@ -18,3 +18,5 @@ CODE:
     Modelling.R ->Traing the model using LDA, Random Forests and XGBoost.
   
     Test.R -> Predicting for the test dataset.
+    
+    Association.R -> A set of association rules formulated using Apriori algorithm.
